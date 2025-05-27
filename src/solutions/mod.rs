@@ -1,1 +1,1 @@
-pub mod search_insert;
+pub mod majority_element;
