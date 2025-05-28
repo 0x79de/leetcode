@@ -1,1 +1,1 @@
-pub mod majority_element;
+pub mod move_zeroes;
