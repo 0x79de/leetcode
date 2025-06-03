@@ -1,1 +1,1 @@
-pub mod majority_element_v2;
+pub mod kth_largest_element;
